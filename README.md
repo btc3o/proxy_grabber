@@ -18,9 +18,7 @@ With Proxy Grabber , you can say goodbye to the hassle of manual searching.
 * Clone the repository to your local machine
 * Change into the project directory
 * Make the script executable
-* Run the script
-(you can find the code and more information on my GitHub repository :
-https://lnkd.in/e2ciKHQ6
+* Run this script i uploaded
 
 ## 📊 Performance:
 Proxy Grabber automates the collection of proxy information, saving you time and effort. It refreshes the proxy list every 24 hours, ensuring you always have the latest and most reliable proxies. 
