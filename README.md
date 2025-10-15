@@ -1,5 +1,5 @@
 # proxy_grabber
-Proxy Grabber is an open-source utility designed to streamline the collection of free proxy server details from online sources. By leveraging wget to extract and filter data from specified websites, it isolates only the free trial proxies offered there, then aggregates them into a single, convenient list for your use.
+Proxy Grabber is an open-source utility designed by me (Azeddine El Massnaoui) to streamline the collection of free proxy server details from online sources. By leveraging wget to extract and filter data from specified websites, it isolates only the free trial proxies offered there, then aggregates them into a single, convenient list for your use.
 
 ## 🤔 The Challenge:
 
