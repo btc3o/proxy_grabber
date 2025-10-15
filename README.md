@@ -29,5 +29,9 @@ While Proxy Grabber makes proxy server acquisition more accessible, it's crucial
 
 ## ⚠️ :
 The script designed to be cross-platform, capable of executing on Android (Termux),Linux,macOS and windows (WSL,Bash Emulators).
+
+## make sur that the ( wget ) commend is intalled in your machine
+
+#this script is a open soure project
  
 #Automation #BashScript #CrossPlatform
